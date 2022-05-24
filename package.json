@@ -1,7 +1,7 @@
 {
-  "name": "start",
+  "name": "react_typescript_redux_mui_spa_template",
   "version": "1.0.0",
-  "description": "A starter project using Typescript and react",
+  "description": "A react template using Typescript, Redux, mui and spa",
   "main": "index.js",
   "type": "module",
   "scripts": {
